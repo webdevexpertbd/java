@@ -1,1 +1,3 @@
-console.log(21);
+let price = 12;
+
+console.log("banana price is " + price);
